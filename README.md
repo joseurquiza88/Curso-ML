@@ -1,4 +1,4 @@
-# 🤖 Prácticas de Machine Learning
+# Prácticas de Machine Learning
 
 Este repositorio reúne distintas prácticas realizadas en el marco del curso de Machine Learning de Talento Tech (Gobierno de la Ciudad de Buenos Aires).
 
